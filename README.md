@@ -6,7 +6,6 @@
 - 📖 Recently focused on practicing coding and learning English.
 - 💡 Enjoy and get excited about daily challenges, practice makes perfect.
 - ✨ Except for code, I also love animals (especially dogs), coffee, and psychology.
-
 - 😄 It's my dog in the photo. I am always missing and loving him.
 - 🎓 I Hope can become an engineer in 2023.
 
@@ -19,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Noelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs)
 
 <!--
 **Noelle-KH/Noelle-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
