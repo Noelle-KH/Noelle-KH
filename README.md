@@ -1,6 +1,6 @@
 <img src="src/header-picture.png">
 
-### Hey, nice to meet you here <img src="src/wave.gif" width="30px" height="30px">
+## Hey, nice to meet you here <img src="src/wave.gif" width="30px" height="30px">
 
 - 💻 I am currently learning Web Development at <a href="https://tw.alphacamp.co/" target="_blank">ALPHA Camp</a>.
 - 📖 Recently focused on practicing coding and learning English.
@@ -11,7 +11,7 @@
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
