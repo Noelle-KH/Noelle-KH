@@ -2,12 +2,12 @@
 
 ## Hey, nice to meet you here <img src="src/wave.gif" width="30px" height="30px">
 
-- 💻 I am currently learning Web Development at <a href="https://tw.alphacamp.co/" target="_blank">ALPHA Camp</a>.
+- 💻 I am currently learning Web Development at <a href="https://tw.alphacamp.co/">ALPHA Camp</a>.
 - 📖 Recently focused on practicing coding and learning English.
 - 💡 Enjoy and get excited about daily challenges, practice makes perfect.
 - ✨ Except for code, I also love animals (especially dogs), coffee, and psychology.
 - 😄 It's my dog in the photo. I am always missing and loving him.
-- 🎓 Hope to become a software engineer in 2023
+- 🎓 Hope to become a software engineer in 2023.
 
 ---
 
