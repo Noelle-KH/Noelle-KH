@@ -20,12 +20,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-<a href="#">
+<p>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl" />
-</a>
-
+</p>
 
 <!--
 **Noelle-KH/Noelle-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
