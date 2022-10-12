@@ -19,7 +19,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 ![Noelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Noelle-KH/Noelle-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
