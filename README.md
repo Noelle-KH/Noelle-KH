@@ -7,7 +7,7 @@
 - 💡 Enjoy and get excited about daily challenges, practice makes perfect.
 - ✨ Except for code, I also love animals (especially dogs), coffee, and psychology.
 - 😄 It's my dog in the photo. I am always missing and loving him.
-- 🎓 I Hope can become an engineer in 2023.
+- 🎓 Hope to become a software engineer in 2023
 
 ---
 
