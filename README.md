@@ -21,8 +21,11 @@
 
 ---
 
-![Noelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl" />
+</a>
+
 
 <!--
 **Noelle-KH/Noelle-KH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
