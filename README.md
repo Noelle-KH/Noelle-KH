@@ -11,7 +11,7 @@
 
 ---
 
-## Languages and Tools
+## 🔧Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -20,6 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 📈 Stats
 <p>
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl" />
