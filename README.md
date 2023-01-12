@@ -25,8 +25,8 @@
 ---
 ## 📈 Stats
 <p>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noelle-KH&show_icons=true&theme=nightowl&hide=contribs,prs" />
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noelle-KH&layout=compact&theme=nightowl" />
 </p>
 
 <!--
